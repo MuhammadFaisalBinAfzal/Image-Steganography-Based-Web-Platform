@@ -1,0 +1,14 @@
+# Python cache
+__pycache__/
+*.py[cod]
+
+# IDE configs
+.idea/
+.vscode/
+
+# Temporary and generated images
+temp_*.png
+secured_image.png
+
+# Sensitive Security Keys (Keep your private keys safe!)
+*.pem
