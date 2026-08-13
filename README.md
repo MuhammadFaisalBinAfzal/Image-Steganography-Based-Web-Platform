@@ -1,4 +1,4 @@
-# Image Steganography-Based Web Platform 🔐🖼️
+# Image Steganography-Based Web Platform 
 
 A secure, modern desktop-web application that encapsulates secret data (text messages, audio recordings, or custom files) inside standard PNG images using advanced steganography and cryptography techniques.
 
@@ -17,8 +17,7 @@ A secure, modern desktop-web application that encapsulates secret data (text mes
 
 Here is a look at the clean, dark-mode user interface:
 
-### 🔒 Lock a Secret (Cover Image & Payload Generation)
-![Lock Secret Setup](https://github.com/user-attachments/assets/64cec07a-aa21-4e9b-a4cf-3476a1c056da)
+### Lock a Secret (Cover Image & Payload Generation)
 ![Lock Secret UI 1](https://github.com/user-attachments/assets/c0fdb99b-aab8-4d8e-9d36-4f4902d820f9)
 ![Lock Secret UI 2](https://github.com/user-attachments/assets/c02e8c26-bb33-4a81-ab31-bc34bd9d2d4e)
 
@@ -34,8 +33,9 @@ Here is a look at the clean, dark-mode user interface:
 
 ## 🏗️ Technical Architecture
 
-*(Paste the link to your Draw.io architecture diagram here!)*
+<img width="4350" height="2880" alt="IBSCS_Architecture_Diagram" src="https://github.com/user-attachments/assets/14d06142-fb54-421a-8670-00140eeb1529" />
 
+ 
 ---
 
 ## Tech Stack
