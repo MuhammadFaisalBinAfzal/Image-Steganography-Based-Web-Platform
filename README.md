@@ -13,6 +13,16 @@ A secure, modern desktop-web application that encapsulates secret data (text mes
 
 ---
 
+## 📸 App Screenshots
+
+Here is a look at the clean, dark-mode user interface:
+
+| Lock a Secret (Tab 1) | Open a Secret (Tab 2) | Secret Checker (Tab 3) |
+|:---:|:---:|:---:|
+| <img src="assets/lock.png" width="400"/> | <img src="assets/open.png" width="400"/> | <img src="assets/checker.png" width="400"/> |
+
+---
+
 ## 🛠️ Tech Stack
 * **Frontend Framework:** Streamlit (Python web-app framework)
 * **AI & Machine Learning:** Hugging Face Inference API / Pollinations AI (Text-to-Image models)
