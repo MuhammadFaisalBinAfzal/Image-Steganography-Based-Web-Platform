@@ -3,6 +3,14 @@ __pycache__/
 *.pyc
 .idea/
 
+# Sensitive Security Keys (Keep your private keys safe!)
+*.pem
+
+# Virtual Environments
+venv/
+.venv/
+env/
+
 # Runtime / generated images
 temp_*.png
 secured_image.png
