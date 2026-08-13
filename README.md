@@ -27,6 +27,12 @@ Here is a look at the clean, dark-mode user interface:
 
 ---
 
+## 🏗️ Technical Architecture
+
+*(Paste the link to your Draw.io architecture diagram here!)*
+
+---
+
 ## Tech Stack
 * **Frontend Framework:** Streamlit (Python web-app framework)
 * **AI & Machine Learning:** Hugging Face Inference API / Pollinations AI (Text-to-Image models)
@@ -94,3 +100,4 @@ Once the Streamlit application is running in your browser, you will see three ma
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+ 
