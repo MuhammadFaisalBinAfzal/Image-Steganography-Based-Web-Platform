@@ -17,11 +17,16 @@ A secure, modern desktop-web application that encapsulates secret data (text mes
 
 Here is a look at the clean, dark-mode user interface:
 
-![Screenshot 1](https://github.com/user-attachments/assets/64cec07a-aa21-4e9b-a4cf-3476a1c056da)
-![Screenshot 2](https://github.com/user-attachments/assets/c0fdb99b-aab8-4d8e-9d36-4f4902d820f9)
-![Screenshot 3](https://github.com/user-attachments/assets/c02e8c26-bb33-4a81-ab31-bc34bd9d2d4e)
-![Screenshot 4](https://github.com/user-attachments/assets/9b806aca-cc56-49d7-8e1a-2ec3e5829073)
-![Screenshot 5](https://github.com/user-attachments/assets/c890d855-2c2e-442e-bf50-c88796c1455a)
+### 🔒 Lock a Secret (Cover Image & Payload Generation)
+![Lock Secret Setup](https://github.com/user-attachments/assets/64cec07a-aa21-4e9b-a4cf-3476a1c056da)
+![Lock Secret UI 1](https://github.com/user-attachments/assets/c0fdb99b-aab8-4d8e-9d36-4f4902d820f9)
+![Lock Secret UI 2](https://github.com/user-attachments/assets/c02e8c26-bb33-4a81-ab31-bc34bd9d2d4e)
+
+### 🔓 Open a Secret (Data Extraction)
+![Open a Secret](https://github.com/user-attachments/assets/9b806aca-cc56-49d7-8e1a-2ec3e5829073)
+
+### 📡 Secret Checker (LSB Detection Radar)
+![Secret Checker](https://github.com/user-attachments/assets/c890d855-2c2e-442e-bf50-c88796c1455a)
 
 
 
