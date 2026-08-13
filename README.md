@@ -1,8 +1,8 @@
-# Image Steganography-Based Web Platform 
+<img width="1913" height="785" alt="Screenshot 2026-08-13 132954" src="https://github.com/user-attachments/assets/64cec07a-aa21-4e9b-a4cf-3476a1c056da" /># Image Steganography-Based Web Platform 
 
 A secure, modern desktop-web application that encapsulates secret data (text messages, audio recordings, or custom files) inside standard PNG images using advanced steganography and cryptography techniques.
 
-## 🚀 Key Features
+## Key Features
 * **AI Cover Image Generation:** Generate beautiful, photorealistic cover images on-the-fly using integrated Hugging Face (Flux.1-schnell) or Pollinations AI models. No need to find your own images!
 * **Multi-Payload Support:** Hide raw text strings, generic external files, or direct microphone-recorded voice notes.
 * **Dual-Layer Security:** Combines **AES-128 encryption** (via Python's `cryptography` Fernet implementation) with **LSB (Least Significant Bit) Steganography**.
@@ -13,17 +13,23 @@ A secure, modern desktop-web application that encapsulates secret data (text mes
 
 ---
 
-## 📸 App Screenshots
+## App Screenshots
 
 Here is a look at the clean, dark-mode user interface:
 
-| Lock a Secret (Tab 1) | Open a Secret (Tab 2) | Secret Checker (Tab 3) |
-|:---:|:---:|:---:|
-| <img src="assets/lock.png" width="400"/> | <img src="assets/open.png" width="400"/> | <img src="assets/checker.png" width="400"/> |
+<img width="1913" height="785" alt="Screenshot 2026-08-13 132954" src="https://github.com/user-attachments/assets/c0fdb99b-aab8-4d8e-9d36-4f4902d820f9" />
+
+<img width="1919" height="794" alt="Screenshot 2026-08-13 133007" src="https://github.com/user-attachments/assets/c02e8c26-bb33-4a81-ab31-bc34bd9d2d4e" />
+
+<img width="1919" height="792" alt="Screenshot 2026-08-13 133020" src="https://github.com/user-attachments/assets/9b806aca-cc56-49d7-8e1a-2ec3e5829073" />
+
+<img width="1919" height="797" alt="Screenshot 2026-08-13 133030" src="https://github.com/user-attachments/assets/c890d855-2c2e-442e-bf50-c88796c1455a" />
+
+
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 * **Frontend Framework:** Streamlit (Python web-app framework)
 * **AI & Machine Learning:** Hugging Face Inference API / Pollinations AI (Text-to-Image models)
 * **Steganography Engine:** `stegano` (LSB manipulation library)
