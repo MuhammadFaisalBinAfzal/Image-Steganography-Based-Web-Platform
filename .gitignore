@@ -1,0 +1,8 @@
+.env
+__pycache__/
+*.pyc
+.idea/
+
+# Runtime / generated images
+temp_*.png
+secured_image.png
