@@ -1,4 +1,9 @@
-# Image Steganography-Based Web Platform 
+# Image Steganography-Based Web Platform 🔐🖼️
+
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=flat-square)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=000)
 
 A secure, modern desktop-web application that encapsulates secret data (text messages, audio recordings, or custom files) inside standard PNG images using advanced steganography and cryptography techniques.
 
