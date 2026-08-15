@@ -1,6 +1,6 @@
 <div align="center">
 
-# Image Steganography-Based Web Platform 🔐🖼️
+# Image Steganography-Based Web Platform 
 
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=flat-square)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -22,7 +22,7 @@ A secure, modern desktop-web application that encapsulates secret data (text mes
 
 ---
 
-## 📸 App Screenshots
+##  App Screenshots
 
 Here is a look at the clean, dark-mode user interface:
 
@@ -30,7 +30,7 @@ Here is a look at the clean, dark-mode user interface:
 ![Lock Secret UI 1](https://github.com/user-attachments/assets/c0fdb99b-aab8-4d8e-9d36-4f4902d820f9)
 ![Lock Secret UI 2](https://github.com/user-attachments/assets/c02e8c26-bb33-4a81-ab31-bc34bd9d2d4e)
 
-### 🔓 Open a Secret (Data Extraction)
+### Open a Secret (Data Extraction)
 ![Open a Secret](https://github.com/user-attachments/assets/9b806aca-cc56-49d7-8e1a-2ec3e5829073)
 
 ### 📡 Secret Checker (LSB Detection Radar)
@@ -40,7 +40,7 @@ Here is a look at the clean, dark-mode user interface:
 
 ---
 
-## 🏗️ Technical Architecture
+## Technical Architecture
 
 <img width="4350" height="2880" alt="IBSCS_Architecture_Diagram" src="https://github.com/user-attachments/assets/14d06142-fb54-421a-8670-00140eeb1529" />
 
